@@ -14,4 +14,5 @@ $(".marquee").each(function (index) {
   items.first().clone().appendTo(track);
 });
 
+
 //Based on https://www.youtube.com/watch?v=h3a8913zr8A
